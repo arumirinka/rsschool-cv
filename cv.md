@@ -16,6 +16,7 @@ Being short on time, I'll probably replace this later with some more information
 * JS
 * ReactJS
 * NodeJS
+* Git
 * Joomla! CMS
 * and a lot more.
 
@@ -23,3 +24,17 @@ Being short on time, I'll probably replace this later with some more information
 ```
 <!-- Can be found in my repositories here on github. -->
 ```
+
+## Experience
+1. Support specialist (web studio).
+2. Project manager (web studio).
+3. Website administrator.
+4. Web developer.
+
+## Education
+In progress.
+
+## English
+* Advanced group at the university.
+* A teacher from London for a month or two.
+* Successful negotiations on several projects with foreign clients (as a project manager).
